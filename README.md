@@ -9,4 +9,4 @@ The Data Structures studied and coded are:
 * Queue
 * Stack
 * Time Machine
-* Statistic
+* Statistics
